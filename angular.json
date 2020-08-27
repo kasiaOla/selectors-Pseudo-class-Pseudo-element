@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "selectors-Pseudo-class-Pseudo-element"
+    }
+  },
+  "defaultProject": "selectors-Pseudo-class-Pseudo-element",
+  "cli": {
+    "analytics": "62e390a6-61bf-4dbb-b0ae-7a102dc91587"
+  }
 }
